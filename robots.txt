@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://abotaexeth.inigoalonso.com/sitemap.xml
